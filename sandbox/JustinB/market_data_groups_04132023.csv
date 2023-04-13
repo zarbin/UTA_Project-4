@@ -1,0 +1,22 @@
+,Stock,marketcap,shortname,Market Grouping
+0,BTC-USD,588707463168,Bitcoin USD,Crypto
+1,ETH-USD,242722848768,Ethereum USD,Crypto
+2,GLD,49283903488,SPDR Gold Trust,Commodities
+3,SLV,8087242752,iShares Silver Trust,Commodities
+4,CL=F,,Crude Oil May 23,Commodities
+5,VIXY,,ProShares Trust VIX Short-Term ,Volatility
+6,^IXIC,,NASDAQ Composite,Indexes
+7,^GSPC,,S&P 500,Indexes
+8,^DJI,,Dow Jones Industrial Average,Indexes
+9,META,572532719616,"Meta Platforms, Inc.",Tech
+10,AMZN,1046864199680,"Amazon.com, Inc.",Tech
+11,AAPL,2614252535808,Apple Inc.,Tech
+12,NFLX,153573457920,"Netflix, Inc.",Tech
+13,GOOG,1379084402688,Alphabet Inc.,Tech
+14,TSLA,589586432000,"Tesla, Inc.",Tech
+15,JPM,376868503552,JP Morgan Chase & Co.,Finance
+16,WFC,149478342656,Wells Fargo & Company,Finance
+17,C,92553977856,"Citigroup, Inc.",Finance
+18,BAC,228618633216,Bank of America Corporation,Finance
+19,UUP,,Invesco DB USD Index Bullish Fu,Currency
+20,IEF,14511669248,iShares 7-10 Year Treasury Bond,Gov. Bonds
