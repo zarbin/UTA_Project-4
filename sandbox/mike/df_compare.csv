@@ -1,6 +1,6 @@
-,Metric,MODEL 1,MODEL 2
-0,Accuracy,54.2,54.2
-1,TP_Rate,83.9,83.9
-2,TN_Rate,24.5,24.5
-3,PPV_Rate,52.6,52.6
-4,NPV_Rate,60.4,60.4
+,Metric,MODEL 1,MODEL 2,MODEL 3
+0,Accuracy,52.1,52.1,55.1
+1,TP_Rate,19.0,19.0,63.9
+2,TN_Rate,85.2,85.2,46.4
+3,PPV_Rate,56.2,56.2,54.4
+4,NPV_Rate,51.3,51.3,56.2
