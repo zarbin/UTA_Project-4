@@ -1,0 +1,27 @@
+﻿begins at (BTC after SVB sentiment.csv),sentiment (BTC after SVB sentiment.csv),vader prediction (BTC after SVB sentiment.csv)
+3/15/2023,negative,-0.062925
+3/16/2023,neutral,0
+3/17/2023,negative,-0.082328571
+3/18/2023,positive,0.4696
+3/20/2023,negative,-0.1539
+3/21/2023,positive,0.131366667
+3/22/2023,positive,0.3693625
+3/23/2023,positive,0.2587
+3/24/2023,positive,0.25634
+3/27/2023,negative,-0.1257
+3/28/2023,neutral,0
+3/29/2023,positive,0.15718
+3/30/2023,negative,-0.6555
+3/31/2023,positive,0.1291
+4/2/2023,negative,-0.1779
+4/3/2023,negative,-0.187466667
+4/4/2023,positive,0.27462
+4/5/2023,neutral,0.019142857
+4/6/2023,positive,0.429
+4/7/2023,neutral,-0.001300000
+4/8/2023,positive,0.3119
+4/9/2023,positive,0.4019
+4/10/2023,positive,0.18205
+4/11/2023,positive,0.294844444
+4/12/2023,positive,0.3027
+4/13/2023,negative,-0.19696
