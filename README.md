@@ -1,8 +1,7 @@
-# UTA_Project-4
-UTA Data Analytics Project 4
-_________________________________________________________________________________________________________________
+# Project-4 - Crypto Data, Sentiment and Signals
 
-# Purpose: 
+
+## Purpose: 
 Is crypto an attractive investment at this time given economic indicators and sentiment?
 
 
@@ -27,7 +26,7 @@ Is crypto an attractive investment at this time given economic indicators and se
 ![image](https://user-images.githubusercontent.com/36682023/232348057-13307465-9878-47f0-b855-5e97f691b550.png)
 [Google Sheet](https://docs.google.com/spreadsheets/d/1boIk5OkkzzumndtRMwkkKE1grw_CWv3P7WuklKdLLLw/edit?usp=sharing)
 
-# Data Sources:
+## Data Sources:
 
 * Elon Musk Tweets (2010-2022): https://www.kaggle.com/datasets/ayhmrba/elon-musk-tweets-2010-2021?select=2021.csv 
 * Elon Musk Tweets (2022-2023): https://www.kaggle.com/datasets/gpreda/elon-musk-tweets
@@ -40,16 +39,16 @@ Is crypto an attractive investment at this time given economic indicators and se
 * Surveys of Consumers - http://www.sca.isr.umich.edu/tables.html
 
 
-# Methodology
+## Methodology
 
 ## Tools and Packages:
 * Python
 * Tableau
 
 
-# Analysis
+## Analysis
 
-# Contributers
+## Contributers
 
 - Jennifer Shulyak
 - Joe Moreno
