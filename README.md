@@ -2,7 +2,9 @@
 
 
 ## Purpose: 
-Cryptocurrencies have become numerous a major economic phenomenon. This project aimed to look to see if cryptocurrencies are an attractive investment at this time given economic indicators and sentiment. Do to data and time constraints, the primary cryptocurrency of focus was Bitcoin (BTC). Some specific questions we sought to answer:
+Cryptocurrencies have become numerous and major economic phenomena. Media from newsites, twitter, celebrities, and billionaires have sought to encourage and discourage interest in the new forms of currency. 
+
+This project aimed to answer if cryptocurrencies are an attractive investment at this time given economic indicators and sentiment. Due to data and time constraints, the primary cryptocurrency of focus was Bitcoin (BTC). Some specific questions we sought to answer:
 1. Can we predict whether over the next 50 days BTC will outperform it’s median historic return (and how does it’s performance and predictability compare to a sample of alternative investments) use historical trading data, sentiment analysis, and various economic indicators to train ML models?
 2. Does sentiment toward cryptocurrencies in the media correlate with their market price?
 3. Can we create a text sentiment analysis machine learning model specifically geared toward crypto news headlines? 
@@ -60,8 +62,21 @@ ______________________________________________________________________________
     6. Model was trained using optimal parameters and a confusion matrix was procurred. Vader was used on the training data and a confusion matrix was procurred to compare the two models. 
     7. The model and vader were both applied to a new dataset: An unlabeled dataset of newsheadlines about Bitcoin (BTC) from the last month. Their results were compared.  
 ______________________________________________________________________________
-## Analysis
+## Analysis:
+### John: 
+### Justin: 
+### Sentiment and the Market: (JOE)
+### Text Sentiment Analysis: Random Forest Algorithm
+    * Optimal parameters found: depth of None and n_estimators = 300 and gave an mean_test_score of .667
+    * TF-IDF was slightly more succesfully (an additional .5 in mean accuracy)
+    ![Screen Shot 2023-04-16 at 7 48 34 PM](https://user-images.githubusercontent.com/111457464/232354068-b8c05b85-d2b6-497b-8083-bce9590280bd.png)
+    ![Screen Shot 2023-04-16 at 7 50 15 PM](https://user-images.githubusercontent.com/111457464/232354189-30acc8c1-1fdf-4979-85a2-e0dbf905f523.png)
+    * Despite performing better on the training data, the Random Forest NLP proved to favor labeling headlines as neutral and did so on the BTC headlines dataset. Upon inspection, Vader more accurately predicted what the team identified as being positive headlines while the Random Forest NLP labeled them as neutral. For Example: “Why Bitcoin Miner Stocks Soared This WeekBitcoin mining company stocks have soared this week, amplifying the gains of Bitcoin itself…." was labeled as "neutral" by the RF NLP and "positive" by Vader.
+    * Conclusion: Until more fine tuning can be done on the Random Forest Algorithm, Vader should be used for sentiment analysis.
 
+### Mike: 
+
+______________________________________________________________________________
 ## Contributers
 
 - Jennifer Shulyak
