@@ -45,9 +45,20 @@ ______________________________________________________________________________
 
 ### Tools and Packages:
 * Python
+    * NLTK, 
 * Tableau
 * SQLltie
 
+### Text Sentiment Analysis: Vader
+    * Vader (Valence Aware Dictionary and sEntiment Reasoner) was used to quantify the sentiment and determine the polarity (negative, neutral, or positive) of news headlines and tweets authored by Elon Musk concerning cryptocurrencies. 
+### Text Sentiment Analysis: Random Forest Algorithm
+    1. Dataset of Financial News headlines that was prelabeled with polarity was taken from Kaggle.
+    2. Feature Engineering: headline length, punctuation %, and capitalization % were calculated for each headline.
+    3. Data cleaning: Punctuation was removed, all text was made lowercase, stopwords were removed, a portstemmer was applied, and the data was tokenized. 
+    4. Vectorization: Count and TF-IDF were tested.
+    5. GridsearchCV was used to determine the optimal parameters.
+    6. Model was trained using optimal parameters and a confusion matrix was procurred. Vader was used on the training data and a confusion matrix was procurred to compare the two models. 
+    7. The model and vader were both applied to a new dataset: An unlabeled dataset of newsheadlines about Bitcoin (BTC) from the last month. Their results were compared.  
 ______________________________________________________________________________
 ## Analysis
 
