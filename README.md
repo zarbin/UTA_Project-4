@@ -69,8 +69,11 @@ ______________________________________________________________________________
 ### Text Sentiment Analysis: Random Forest Algorithm
     * Optimal parameters found: depth of None and n_estimators = 300 and gave an mean_test_score of .667
     * TF-IDF was slightly more succesfully (an additional .5 in mean accuracy)
+    
     ![Screen Shot 2023-04-16 at 7 48 34 PM](https://user-images.githubusercontent.com/111457464/232354068-b8c05b85-d2b6-497b-8083-bce9590280bd.png)
+    
     ![Screen Shot 2023-04-16 at 7 50 15 PM](https://user-images.githubusercontent.com/111457464/232354189-30acc8c1-1fdf-4979-85a2-e0dbf905f523.png)
+    
     * Despite performing better on the training data, the Random Forest NLP proved to favor labeling headlines as neutral and did so on the BTC headlines dataset. Upon inspection, Vader more accurately predicted what the team identified as being positive headlines while the Random Forest NLP labeled them as neutral. For Example: “Why Bitcoin Miner Stocks Soared This WeekBitcoin mining company stocks have soared this week, amplifying the gains of Bitcoin itself…." was labeled as "neutral" by the RF NLP and "positive" by Vader.
     * Conclusion: Until more fine tuning can be done on the Random Forest Algorithm, Vader should be used for sentiment analysis.
 
