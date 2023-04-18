@@ -105,6 +105,12 @@ We took a look at some of the trends of bitcoin and the sentiment around Bitcoin
 
 ### Mike: 
 
+![image](https://user-images.githubusercontent.com/36682023/232664241-f3dc2202-49ff-4a22-a95e-c09fb14e1c58.png)
+
+![image](https://user-images.githubusercontent.com/36682023/232664266-a0b34fb4-cc59-491e-b4a4-011dceef78c7.png)
+
+
+
 ______________________________________________________________________________
 ## Contributers
 
