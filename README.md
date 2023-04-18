@@ -75,6 +75,15 @@ I'm happy awith the Mean Squared Error of .000733 and to see the regression conv
 
 ![image](https://user-images.githubusercontent.com/36682023/232645339-38a9528a-46a3-4417-bc38-b0b7a387bd8d.png)
 
+Bitcoin price predictions below.  Please note this is not invesment advice!  :) 
+
+![image](https://user-images.githubusercontent.com/36682023/232647677-99e19463-dc5b-441c-8386-6f8b75e708d4.png)
+
+Crypto Dashboard focusing on trend of Price, Volume, and Market cap for some of the top coins in the market. 
+
+![image](https://user-images.githubusercontent.com/36682023/232647618-1b686406-626a-4f98-b439-d107ea26f95e.png)
+
+
 ### Sentiment and the Market: (JOE)
 ### Text Sentiment Analysis: Random Forest Algorithm
     * Optimal parameters found: depth of None and n_estimators = 300 and gave an mean_test_score of .667
