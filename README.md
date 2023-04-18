@@ -63,7 +63,7 @@ ______________________________________________________________________________
     7. The model and vader were both applied to a new dataset: An unlabeled dataset of newsheadlines about Bitcoin (BTC) from the last month. Their results were compared.  
 ______________________________________________________________________________
 ## Analysis:
-### John: 
+### John: Created a summary analysis of marketdata.csv, which contained a summary of financial categories. The other Analysis done was pulled from a crypto datasource,           which had 2 dashboards to show the upward trend of the crypto market as a whole.
 
 ![image](https://user-images.githubusercontent.com/36682023/232646098-c9469bce-4625-4718-bdf6-b5b136461238.png)
 
