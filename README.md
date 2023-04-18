@@ -63,7 +63,9 @@ ______________________________________________________________________________
     7. The model and vader were both applied to a new dataset: An unlabeled dataset of newsheadlines about Bitcoin (BTC) from the last month. Their results were compared.  
 ______________________________________________________________________________
 ## Analysis:
-### John: Created a summary analysis of marketdata.csv, which contained a summary of financial categories. The other Analysis done was pulled from a crypto datasource,           which had 2 dashboards to show the upward trend of the crypto market as a whole.
+### John: 
+
+Created a summary analysis of marketdata.csv, which contained a summary of financial categories. The other Analysis done was pulled from a crypto datasource,           which had 2 dashboards to show the upward trend of the crypto market as a whole.
 
 ![image](https://user-images.githubusercontent.com/36682023/232646098-c9469bce-4625-4718-bdf6-b5b136461238.png)
 
@@ -85,6 +87,12 @@ Crypto Dashboard focusing on trend of Price, Volume, and Market cap for some of 
 
 
 ### Sentiment and the Market: (JOE)
+
+We took a look at some of the trends of bitcoin and the sentiment around Bitcoin over the last 3 years. We found that the sentiment on Bitcoin fluctuates depending on certain world events. The price of Bitcoin peaked late 2021 but then saw a significant decrease post-COVID and other factors that included rising inflation. However, taking a look at recent treads on price and sentiment show that Bitcoin did survive a crypto winter and is on an upward trend to start 2023 as it started around 16.6K and has hit 30K as of a few days ago. Considering the banking crisis and the failure of SVB, this indicates that the sentiment around bitcoin and the price is currently on an upward trajectory.
+
+![image](https://user-images.githubusercontent.com/36682023/232653326-e2bd3d6e-e333-42c5-9cfb-b77b5376c603.png)
+
+
 ### Text Sentiment Analysis: Random Forest Algorithm
     * Optimal parameters found: depth of None and n_estimators = 300 and gave an mean_test_score of .667
     * TF-IDF was slightly more succesfully (an additional .5 in mean accuracy)
