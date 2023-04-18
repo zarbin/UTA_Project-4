@@ -45,12 +45,6 @@ ______________________________________________________________________________
 * GDP: Macrotrends - https://www.macrotrends.net/countries/USA/united-states/gdp-gross-domestic-product
 * Surveys of Consumers - http://www.sca.isr.umich.edu/tables.html
 
-### Tools and Packages:
-* Python
-    * NLTK, 
-* Tableau
-* SQLltie
-
 ### Text Sentiment Analysis: Vader
     * Vader (Valence Aware Dictionary and sEntiment Reasoner) was used to quantify the sentiment and determine the polarity (negative, neutral, or positive) of news headlines and tweets authored by Elon Musk concerning cryptocurrencies. 
 ### Text Sentiment Analysis: Random Forest Algorithm
