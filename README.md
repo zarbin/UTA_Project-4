@@ -14,14 +14,14 @@ ______________________________________________________________________________
 ## Methodology:
 ### Project Directory Layout
 
-    ├── Production              # datasource .csv from Kaggle and JSON files stored here for endpoints.
+    ├── Production              # Datasource .csv from Kaggle and JSON files stored here for endpoints.
     │   ├── Resources           # Files for Database Import
     │   │   ├── Images          # Project Images
     │   ├── Tableau             # Tableau master workbook
-    ├── Sandbox                 # sandbox environment for EDA, testing, data wrangling.
+    ├── Sandbox                 # Sandbox environment for EDA, testing, data wrangling.
     │   ├── JennS               # Sandbox / Working files - Jenn.
     │   ├── JustinB             # Sandbox / Working files - Justin.
-    │   ├── Tableau             # jSandbox / Working files - John & Joe.
+    │   ├── Tableau             # Sandbox / Working files - John & Joe.
     │   ├── mike                # Sandbox / Working files - Mike.    
     ├── LICENSE
     └── README.md               # Readme File
