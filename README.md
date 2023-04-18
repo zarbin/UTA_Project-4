@@ -64,7 +64,17 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 ## Analysis:
 ### John: 
+
+![image](https://user-images.githubusercontent.com/36682023/232646098-c9469bce-4625-4718-bdf6-b5b136461238.png)
+
+
 ### Justin: 
+
+Bitcoin price predections seemed very trend focused, which makes sense as the Bitcoin price history was the primary feature of the LSTM RNN. 
+I'm happy awith the Mean Squared Error of .000733 and to see the regression convergence over time. 
+
+![image](https://user-images.githubusercontent.com/36682023/232645339-38a9528a-46a3-4417-bc38-b0b7a387bd8d.png)
+
 ### Sentiment and the Market: (JOE)
 ### Text Sentiment Analysis: Random Forest Algorithm
     * Optimal parameters found: depth of None and n_estimators = 300 and gave an mean_test_score of .667
